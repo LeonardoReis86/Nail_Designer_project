@@ -1,0 +1,29 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar {
+  background-color: #111111;
+}
+
+.nav .nav-link.active {
+  color: #FAFAFA; 
+  background-color: #AD576C;
+}
+
+.nav .nav-link.active:hover {
+  color: #111111;
+}
+
+.nav .nav-link,
+.navbar-brand {
+  color: #FAFAFA;
+}
+
+.nav .nav-link:hover {
+  color: #AD576C;
+}
+
+.navbar-brand:hover {
+  color: #FAFAFA;
+}
