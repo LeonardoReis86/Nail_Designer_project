@@ -39,3 +39,18 @@ body {
 .gold-color-custom {
   color: #B38A4B;
 }
+
+.banner {
+  background-color: #111111;
+  color: #FAFAFA;
+}
+
+.btn-primary {
+  background-color: #493A24;
+  color: #FAFAFA;
+  border: none;
+}
+
+/* .btn-primary:active {
+  background-color: #6B5A40;
+} */
