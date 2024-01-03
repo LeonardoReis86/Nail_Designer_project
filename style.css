@@ -35,3 +35,7 @@ body {
 .navbar-toggler:focus-within {
   margin-bottom: 5px;
 }
+
+.gold-color-custom {
+  color: #B38A4B;
+}
