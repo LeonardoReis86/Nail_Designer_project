@@ -27,3 +27,11 @@ body {
 .navbar-brand:hover {
   color: #FAFAFA;
 }
+
+.navbar-toggler {
+  background-color: #FAFAFA;
+}
+
+.navbar-toggler:focus-within {
+  margin-bottom: 5px;
+}
